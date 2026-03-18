@@ -30,10 +30,8 @@ This is not fake 2.5D. It is a genuine 3D voxel renderer with first-person movem
 ## Demo
 
  
-```
 ![Screenshot 1](./docs/screenshot1.jpg)
 ![Screenshot 2](./docs/screenshot2.jpg)
-```
  
 ---
  
